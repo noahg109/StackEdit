@@ -335,7 +335,13 @@ Cohort measures cannot be done until lots of time has passed, 50+ years usually
 	- Rectangularization of mortality as we reach our life span limits via lifestyle, medical, and standard of living improvements
 - Room for
 	- Large, but as yet unmodeled, genetic and environmental interactions
+
+### New possible 5^th^ stage of Reemergence of Infectious Disease
+- Medical treatment resistant infectious and parasitic diseases
+- New IPDs
+- Clustering and bundling of diseases - XDR TB and HIV/AIDS, for example
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzNzgyMjEyLDIxMTUzNTMxNDYsNjg3NT
-YwMjE0XX0=
+eyJoaXN0b3J5IjpbLTk2NjExNTY5NiwyMTE1MzUzMTQ2LDY4Nz
+U2MDIxNF19
 -->
