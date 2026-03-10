@@ -318,7 +318,9 @@ Cohort measures cannot be done until lots of time has passed, 50+ years usually
 - Age of pestilence and famine
 - Age of receding pandemics
 - Age of degenerative and man-made diseases 
+
+### Potential New State
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDgxMTk2NSwyMTE1MzUzMTQ2LDY4Nz
+eyJoaXN0b3J5IjpbLTY1MDAxMTk2NSwyMTE1MzUzMTQ2LDY4Nz
 U2MDIxNF19
 -->
