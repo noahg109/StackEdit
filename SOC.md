@@ -319,8 +319,16 @@ Cohort measures cannot be done until lots of time has passed, 50+ years usually
 - Age of receding pandemics
 - Age of degenerative and man-made diseases 
 
-### Potential New State
+### Potential New Stage - Olshansky and Ault
+- Age of delayed degenerative disease - shift of mortality by chronic disease to ever older age groups
+	- Rapid decline in death rates concentrated at oldest ages, and distributed equally between women and men
+
+### Manton and Singer
+- Potential for compression of mortality
+- Considers
+	- Years free of disease
+	- years with dis
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDAxMTk2NSwyMTE1MzUzMTQ2LDY4Nz
-U2MDIxNF19
+eyJoaXN0b3J5IjpbLTE3ODI4MzEyNDAsMjExNTM1MzE0Niw2OD
+c1NjAyMTRdfQ==
 -->
