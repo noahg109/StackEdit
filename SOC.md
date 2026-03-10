@@ -333,9 +333,9 @@ Cohort measures cannot be done until lots of time has passed, 50+ years usually
 	- Genetic effects for morbidity and mortality occur in mid-life
 	- Great genetic variability in late ages
 	- Rectangularization of mortality as we reach our life span limits via lifestyle, medical, and standard of living improvements
-- room for
-	- Large, but as yet unmodeled, genetic and environmential interactions
+- Room for
+	- Large, but as yet unmodeled, genetic and environmental interactions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDg3NDUxNSwyMTE1MzUzMTQ2LDY4Nz
-U2MDIxNF19
+eyJoaXN0b3J5IjpbNjAzNzgyMjEyLDIxMTUzNTMxNDYsNjg3NT
+YwMjE0XX0=
 -->
