@@ -327,8 +327,15 @@ Cohort measures cannot be done until lots of time has passed, 50+ years usually
 - Potential for compression of mortality
 - Considers
 	- Years free of disease
-	- years with dis
+	- years with disease but free of disability
+	- years with disease and disability
+- Argues that
+	- Genetic effects for morbidity and mortality occur in mid-life
+	- Great genetic variability in late ages
+	- Rectangularization of mortality as we reach our life span limits via lifestyle, medical, and standard of living improvements
+- room for
+	- Large, but as yet unmodeled, genetic and environmential interactions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI4MzEyNDAsMjExNTM1MzE0Niw2OD
-c1NjAyMTRdfQ==
+eyJoaXN0b3J5IjpbLTg2NDg3NDUxNSwyMTE1MzUzMTQ2LDY4Nz
+U2MDIxNF19
 -->
