@@ -315,8 +315,6 @@ Cohort measures cannot be done until lots of time has passed, 50+ years usually
 # March 3^rd^:
 
 
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NTYwMjE0XX0=
+eyJoaXN0b3J5IjpbMjExNTM1MzE0Niw2ODc1NjAyMTRdfQ==
 -->
