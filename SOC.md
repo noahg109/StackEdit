@@ -313,14 +313,12 @@ Cohort measures cannot be done until lots of time has passed, 50+ years usually
 	- Decreasing % of children who will have socialization experiences with lots of children or siblings or even other kids in their neighborhoods.
 
 # March 3^rd^:
-
 ## Mortality:
-
 ### Epidemiologic Transition
 - Age of pestilence and famine
 - Age of receding pandemics
 - Age of degenerative and man-made diseases 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MjQ0ODY3LDIxMTUzNTMxNDYsNjg3NT
-YwMjE0XX0=
+eyJoaXN0b3J5IjpbLTI1NDgxMTk2NSwyMTE1MzUzMTQ2LDY4Nz
+U2MDIxNF19
 -->
