@@ -346,10 +346,10 @@ Cohort measures cannot be done until lots of time has passed, 50+ years usually
 	- Better nutrition, sewers, clean water supplies, immunization, public services, improved housing, etc.
 - Salience of relative inequalities
 	- Diminishing returns, tipping point for reductions due to absolute living standards
-	- rise in improtance of social inequalities, excessive wealth gaps, poor subjective quality of life affects mortality, especially in areas of deprived circumstances
-	- Perhaps should narrow incomr 
+	- Rise in importance of social inequalities, excessive wealth gaps, poor subjective quality of life affects mortality, especially in areas of deprived circumstances
+	- Perhaps should narrow income differentials and focus on quality of social fabric rather than rising absolute standards of life (at a given point of development)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjIwNjU5NSwyMTE1MzUzMTQ2LDY4Nz
-U2MDIxNF19
+eyJoaXN0b3J5IjpbMTUyMTM2ODQzLDIxMTUzNTMxNDYsNjg3NT
+YwMjE0XX0=
 -->
