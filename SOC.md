@@ -314,8 +314,13 @@ Cohort measures cannot be done until lots of time has passed, 50+ years usually
 
 # March 3^rd^:
 
-## Mo
+## Mortality:
+
+### Epidemiologic Transition
+- Age of pestilence and famine
+- Age of receding pandemics
+- Age of degenerative and man-made diseases 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzQ0ODIxNiwyMTE1MzUzMTQ2LDY4Nz
-U2MDIxNF19
+eyJoaXN0b3J5IjpbMjI1MjQ0ODY3LDIxMTUzNTMxNDYsNjg3NT
+YwMjE0XX0=
 -->
