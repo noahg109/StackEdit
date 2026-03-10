@@ -341,7 +341,11 @@ Cohort measures cannot be done until lots of time has passed, 50+ years usually
 - New IPDs
 - Clustering and bundling of diseases - XDR TB and HIV/AIDS, for example
 
+### Absolute vs Relative Disadvantage (Wilkinson)
+- Absolute mortality improvements
+	- Better nutrition, sewers, cl
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjExNTY5NiwyMTE1MzUzMTQ2LDY4Nz
+eyJoaXN0b3J5IjpbMjA5MzE1MTMzMCwyMTE1MzUzMTQ2LDY4Nz
 U2MDIxNF19
 -->
