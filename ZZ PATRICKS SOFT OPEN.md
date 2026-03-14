@@ -11,7 +11,7 @@
 |**DRIVER**|**JACK**
 
 -
-|5PM |SENT|
+|5PM |DONE|
 |-|-| 
 |**Name**|Amy Kotara
 |**Phone** | 734-476-2062
@@ -21,7 +21,7 @@
 |**Time** | 5:00PM
 |**DRIVER**|**NATE**
 -
-||SENT|
+||DONE|
 |-|-| 
 |**Name**|Grace Heerdt
 |**Phone** | 614-900-7335
@@ -41,7 +41,7 @@
 |**Time** | 5:30PM
 |**DRIVER**|**NATE**
 -
-||NOT SENT|
+||SENT|
 |-|-| 
 |**Name**|Rachael Meadows
 |**Phone** | 740-624-2945
@@ -51,7 +51,7 @@
 |**Time** | 6:00PM
 |**DRIVER**|**NATE**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyOTczMjUxLDg5MDg5MDE1OCwtNzM2Mj
-g3OTA2LDc5MTU5OTc4MywxMDA1ODMzMjM5LDUyNDQ5MDE1NSwx
-NTQ5OTE1MjMxXX0=
+eyJoaXN0b3J5IjpbLTUzMTYyNjI5NCw4OTA4OTAxNTgsLTczNj
+I4NzkwNiw3OTE1OTk3ODMsMTAwNTgzMzIzOSw1MjQ0OTAxNTUs
+MTU0OTkxNTIzMV19
 -->
